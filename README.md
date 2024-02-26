@@ -2,7 +2,7 @@
 
 ## Introduction 📖
 
-This project is crafted to enhance your HTML skills through a guided lesson and three individual challenges. These tasks are designed to be tackled either solo or in a group setting, offering a deep dive into the creation of structured web pages from scratch.
+This in session activity is crafted to enhance your HTML skills through a guided lesson and three individual challenges. These tasks are designed to be tackled either solo or in a group setting, offering a deep dive into the creation of structured web pages from scratch.
 
 ## Getting Started 🚀
 
